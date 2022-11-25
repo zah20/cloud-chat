@@ -1,4 +1,4 @@
-# cloud-chat
+# Cloud Chat
 Private, secure chat where no one's listening or filtering your messages :]
 
 <br></br>
